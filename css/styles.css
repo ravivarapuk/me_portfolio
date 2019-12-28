@@ -32,7 +32,7 @@ p {
 hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
-  width: 7%;
+  width: 9%;
   margin: 40px auto;
 }
 
@@ -53,36 +53,50 @@ a:hover {
 }
 
 .mylogo {
+  padding-top: 10px;
   width: 15%;
+  overflow: hidden;
+  border-radius: 60%;
 }
 
 .top-container {
-  background-color: #E4F9F5;
-  padding-top: 140px;
+  background-color: darkslategrey;
+  padding-top: 55px;
   position: relative;
 }
 
 .middle-container {
-  margin: 30px 0;
+  background-color: lightgrey;
+  margin: 0;
   padding: 30px;
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: darkslategrey;
   padding: 30px 0 10px 0;
+}
 
+.dataholic-stckr{
+  position: absolute;
+  left: 50px;
+  top: 100px;
+  padding-top: 10px;
+  width: 15%;
+  height: 40%;
+  overflow: hidden;
+  border-radius: 40%;
 }
 
 .top-cloud {
   position: absolute;
   right: 200px;
-  top: 130px;
+  top: 200px;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 210px;
-  bottom: 270px;
+  bottom: 290px;
 }
 
 .intro {
@@ -92,8 +106,32 @@ a:hover {
 
 .skill-row {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 50px auto 130px auto;
   text-align: left;
+}
+
+.my-skills{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: center;
+}
+
+.table-struc {
+  height: auto;
+  width: auto;
+}
+
+.table-dimens{
+
+}
+
+.table-fonts-text {
+  font-size: 15px;
+  font-family: 'Merriweather', serif;
+}
+
+.table-stars {
+  font-size: 25px;
 }
 
 .cloudcomputing {
