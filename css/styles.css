@@ -73,7 +73,7 @@ a:hover {
   justify-content: center;
   align-items: center;
   height: 100px;
-  padding-top: 15px;
+  padding-top: 25px;
 }
 
 .flex-item {
@@ -178,10 +178,6 @@ a:hover {
 .contact-message {
   width: 60%;
   margin: 40px auto 60px;
-}
-
-.footer-images {
-  
 }
 
 .copyright {
