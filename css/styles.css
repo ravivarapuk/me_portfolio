@@ -177,7 +177,7 @@ a:hover {
 
 .contact-message {
   width: 60%;
-  margin: 40px auto 60px;
+  margin: 20px auto 20px;
 }
 
 .copyright {
@@ -192,10 +192,10 @@ a:hover {
   background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
   background-image: -o-linear-gradient(top, #11cdd4, #1199e);
   background-image: linear-gradient(to bottom, #11cdd4, #1199e);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
-  border-radius: 8;
-  font-family: 'Montserrat', sans-serif;
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20;
+  font-family: sans-serif, 'Montserrat';
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
