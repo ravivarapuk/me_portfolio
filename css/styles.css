@@ -194,19 +194,19 @@ a:hover {
   background-color: #717171;
 }
 
-.fade {
+.blur {
   -webkit-animation-name: fade;
   -webkit-animation-duration: 1.5s;
   animation-name: fade;
   animation-duration: 1.5s;
 }
 
-@-webkit-keyframes fade {
+@-webkit-keyframes blur {
   from {opacity: .4}
   to {opacity: 1}
 }
 
-@keyframes fade {
+@keyframes blur {
   from {opacity: .4}
   to {opacity: 1}
 }
